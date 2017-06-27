@@ -1,7 +1,7 @@
-<h3># PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</h3>
+# PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 This privacy policy governs your use of the software application Pro Junior for mobile devices that was created by Pro Junior Bauru. The Application is an app that allows the client to track the progress of their projects while being able to request budgets for new projects. In addition, it has all the information so that the customer can contact our company. 
  
-<h2>## What information does the Application obtain and how is it used?</h2>
+## What information does the Application obtain and how is it used?
 User Provided Information 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
  
